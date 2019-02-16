@@ -1,3 +1,2 @@
-# hello-world
-Just another repository
-hello  world two
+hi,
+I am sonya, I'm a new coder. Thankou the document.
